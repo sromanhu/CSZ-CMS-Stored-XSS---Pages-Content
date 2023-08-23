@@ -47,6 +47,9 @@ If we log in with another user, the payload also skips:
 ![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/341f4853-8b72-492d-8d12-5c86a9ae095f)
 
 
+It can also be verified using other payloads as in the following evidence:
+![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/54f0aacb-fa4a-4999-a8e8-270209d95f6f)
 
+![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/65dd9069-ba4b-491a-a8a1-3d2c0cc0a74f)
 
 </br>
