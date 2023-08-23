@@ -29,7 +29,10 @@ We edit the Content of /home and see that we can inject arbitrary Javascript cod
 
 
 
-In the following image you can see the embedded code that executes the payload in the main web /home:
+In the following image you can see the embedded code that executes the payload in the main web /home with the admin user:
+
+![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/5b957c84-17c9-4a1c-8c42-b5b7e4841c04)
+
 
 ![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/8b7d56e0-056a-4afb-8d5c-9b8f1fb2a088)
 
