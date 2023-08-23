@@ -40,7 +40,8 @@ In the following image you can see the embedded code that executes the payload i
 
 
 If we log in with another user, the payload also skips:
-![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/23a21328-0958-4238-ae19-9bbef4f5db06)
+![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/90de0270-0c92-4853-8da6-cc55c81ef3bc)
+
 
 
 ![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/341f4853-8b72-492d-8d12-5c86a9ae095f)
