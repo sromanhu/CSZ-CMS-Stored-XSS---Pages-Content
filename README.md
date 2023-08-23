@@ -52,4 +52,10 @@ It can also be verified using other payloads as in the following evidence:
 
 ![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/65dd9069-ba4b-491a-a8a1-3d2c0cc0a74f)
 
+Or this other:
+
+![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/e2c34cd7-2420-4fd1-a1ba-153e52d4e3d3)
+
+![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/3595f1db-e553-4a57-8290-ad4950303517)
+
 </br>
