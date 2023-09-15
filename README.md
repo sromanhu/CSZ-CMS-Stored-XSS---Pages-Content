@@ -4,6 +4,8 @@
 
 **Description:** Cross Site Scripting vulnerability in CSZCMS v.1.3.0 allows a local attacker to execute arbitrary code via a crafted script to the Additional Meta Tag parameter in the Pages Content Menu component. 
 
+**Attack Vectors:** Scripting A vulnerability in the sanitization of the entry in the Additional Meta Tag of "Pages Content" allows injecting JavaScript code that will be executed when the user accesses the web page.
+
 ---
 
 ### POC:
@@ -59,3 +61,8 @@ Or this other:
 ![image](https://github.com/sromanhu/CSZ-CMS-Stored-XSS---Pages-Content/assets/87250597/3595f1db-e553-4a57-8290-ad4950303517)
 
 </br>
+
+### Additional Information:
+http://cszcms.com
+https://owasp.org/Top10/es/A03_2021-Injection/
+https://owasp.org/www-community/attacks/xss/
