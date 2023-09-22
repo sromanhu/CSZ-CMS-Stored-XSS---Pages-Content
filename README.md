@@ -8,6 +8,8 @@
 
 **Attack Vectors:** AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:L
 
+**CVSS3 Score:** 5.4 - MEDIUM
+
 ---
 
 ### POC:
